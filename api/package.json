@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ably": "^2.6.1",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "socket.io": "^4.8.1"
+  }
+}
